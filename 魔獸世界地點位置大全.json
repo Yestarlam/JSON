@@ -1,0 +1,14 @@
+[
+  {
+    "name": "暴風城",
+    "region": "東部王國",
+    "subregion": "艾爾文森林",
+    "coordinates": [100, 200]
+  },
+  {
+    "name": "奧格瑪",
+    "region": "卡林多",
+    "subregion": "杜洛塔",
+    "coordinates": [300, 400]
+  }
+]
