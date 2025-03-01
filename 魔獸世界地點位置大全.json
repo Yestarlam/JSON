@@ -1,14 +1,10 @@
-[
-  {
-    "name": "暴風城",
-    "region": "東部王國",
-    "subregion": "艾爾文森林",
-    "coordinates": [100, 200]
-  },
-  {
-    "name": "奧格瑪",
-    "region": "卡林多",
-    "subregion": "杜洛塔",
-    "coordinates": [300, 400]
-  }
-]
+{
+    "person": {
+        "name": "李四",
+        "age": 25
+    },
+    "location": {
+        "city": "台北",
+        "country": "台灣"
+    }
+}
